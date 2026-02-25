@@ -16,7 +16,7 @@ class Third extends StatelessWidget {
           onPressed: () {
             Navigator.pop(context);
           },
-          child: const Text('Go to back Screen'),
+          child: const Text('Go  back to Screen'),
         ),
       ),
     );
